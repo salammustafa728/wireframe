@@ -1,4 +1,4 @@
-function change(){
+/*function change(){
   
     var txt;
 var r = confirm("change background color!");
@@ -9,4 +9,4 @@ if (r == true) {
   txt = "You pressed Cancel!";
 }
     
-}
+}*/
